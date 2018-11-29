@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Contests/js13k2017/.idea/js13k2017.iml" filepath="$PROJECT_DIR$/../../Contests/js13k2017/.idea/js13k2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/slow-pong.iml" filepath="$PROJECT_DIR$/.idea/slow-pong.iml" />
+    </modules>
+  </component>
+</project>

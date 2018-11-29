@@ -1,0 +1,7 @@
+{
+  "name": "slow-pong",
+  "version": "0.0.1",
+  "dependencies": {
+    "@brainientnpm/brainient-rest-server": "^1.15.1"
+  }
+}
